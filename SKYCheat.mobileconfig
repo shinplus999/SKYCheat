@@ -65,11 +65,11 @@
                 </dict>
             </array>
             <key>PayloadDisplayName</key>
-            <string>Adware Filter ✗ (DoH)</string>
+            <string>ANTI REVOKE</string>
             <key>PayloadIdentifier</key>
             <string>com.apple.dnsSettings.managed.17A8AB6E-8B72-496D-95CD-76B1DCD49634</string>
             <key>PayloadOrganization</key>
-            <string>skyxshop.com</string>
+            <string>SKYCheat</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
@@ -83,7 +83,7 @@
     <key>PayloadDescription</key>
     <string>DNS Profile</string>
     <key>PayloadDisplayName</key>
-    <string>ANTI REVOKE</string>
+    <string>SKYCheat</string>
     <key>PayloadIdentifier</key>
     <string>skyxshop.com.B1DE9037-24BE-40FD-A98F-0CA293FF8B9D</string>
     <key>PayloadOrganization</key>
